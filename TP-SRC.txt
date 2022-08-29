@@ -1,0 +1,23 @@
+<html>
+<head>
+<center><h1><B><I><U>"WELCOME TO ARRAH JUNCTION!!"</U></I></B></h1></center>
+<body background="tracks.jpg" width=150px height=200px>
+<br>
+<marquee scrollamount="20" direction="right" onmouseover="stop()" onmouseout="start()">
+<img src="TRAIN2.png">
+</marquee>
+<br>
+<br>
+<br>
+<marquee scrollamount="32" onmouseover="stop()" onmouseout="start()">
+<img src="TRAIN3.png">
+</marquee>
+<br>
+<br>
+<br>
+<marquee scrollamount="40" onmouseover="stop()" onmouseout="start()">
+<img src="TRAIN4.png">
+</marquee>
+<audio src="myaudio.mp3" controls>
+</body>
+</html>
